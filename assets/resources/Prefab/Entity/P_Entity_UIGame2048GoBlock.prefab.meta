@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.30",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "f12de77a-a7a6-4db7-bd24-27dca0ddbfc4",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "P_Entity_UIGame2048GoBlock"
+  }
+}

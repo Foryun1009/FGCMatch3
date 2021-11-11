@@ -1,6 +1,6 @@
 {
   "game": {
-    "name": "UNKNOW GAME",
+    "name": "未知游戏",
     "app_id": "UNKNOW",
     "c_id": "0"
   },
@@ -16,7 +16,13 @@
       "config_id": "a55279",
       "config_name": "Default",
       "config_remarks": "",
-      "services": []
+      "services": [
+        {
+          "service_id": "235",
+          "enable": false,
+          "param": {}
+        }
+      ]
     }
   ]
 }
